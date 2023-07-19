@@ -20,8 +20,8 @@ The core of the project involved building a robust Time Series Forecasting model
 ## Repository Contents
 
 The project repository includes the following files:
-- `Presentation.pdf`: [Presentation](https://www.canva.com/design/DAFWhvMoNY0/AejFH9m5H_2ZiPdG1qPZkA/edit?utm_content=DAFWhvMoNY0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)slides from Convolve, IIT Guwahati.
-- `Colab_Notebook.ipynb`: Colab Notebook containing the Python code for data analysis, feature engineering, and building the forecasting model.
+- `Presentation.pdf`: [Presentation ](https://www.canva.com/design/DAFWhvMoNY0/AejFH9m5H_2ZiPdG1qPZkA/edit?utm_content=DAFWhvMoNY0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)slides from Convolve, IIT Guwahati.
+- `Colab_Notebook.ipynb`: [Colab Notebook ](https://drive.google.com/file/d/1cxIdmwmKm93Verqqzx5yqLbgOVOIs83-/view?usp=sharing) containing the Python code for data analysis, feature engineering, and building the forecasting model.
 
 ## Conclusion
 The "Inventory Management and Demand Prediction" project tackles real-world business problems using data analysis and machine learning techniques. The accuracy of 86% underscore the effectiveness of the developed Time Series Forecasting model in predicting product demand for upcoming quarters. The insights and methodologies presented in this project can serve as a reference for future forecasting projects in the domain of inventory management and demand prediction.
