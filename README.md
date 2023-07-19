@@ -20,7 +20,7 @@ The core of the project involved building a robust Time Series Forecasting model
 ## Repository Contents
 
 The project repository includes the following files:
-- `Presentation.pdf`: /href{Presentation}{https://www.canva.com/design/DAFWhvMoNY0/AejFH9m5H_2ZiPdG1qPZkA/edit?utm_content=DAFWhvMoNY0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton} slides from Convolve, IIT Guwahati.
+- `Presentation.pdf`: [Presentation](https://www.canva.com/design/DAFWhvMoNY0/AejFH9m5H_2ZiPdG1qPZkA/edit?utm_content=DAFWhvMoNY0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)slides from Convolve, IIT Guwahati.
 - `Colab_Notebook.ipynb`: Colab Notebook containing the Python code for data analysis, feature engineering, and building the forecasting model.
 
 ## Conclusion
