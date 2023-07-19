@@ -5,7 +5,7 @@ This project, titled "Inventory Management and Demand Prediction," was presented
 
 ## Presentation and Colab Notebook
 The presentation slides for this project provide an overview of the problem statement, approach, methodologies, and achieved results. Additionally, the project's code was developed and documented in a Colab Notebook, which enabled seamless collaboration and access to the data analysis and modeling procedures.
-
+[https://www.canva.com/design/DAFWhvMoNY0/view]
 ## Methodologies and Techniques
 The project incorporated several methodologies and techniques to effectively predict product demand. These included:
 - Exploratory Data Analysis (EDA): EDA was performed using Pandas and PowerBi, enabling the team to gain valuable insights and identify patterns in the dataset.
